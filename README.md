@@ -23,5 +23,5 @@ Follow these steps to set up the dashboard:
 6. **Data Query Validation**: Ensure that each data query in the Template Dataset works correctly.
 
 7. **Preview**: Run the dashboard to preview it on the browser.
- <img src="https://github.com/YutongGGG/University-Student-Data-Dashboard/blob/main/demo.jpg" alt="demo" width="400"/>
+ <img src="https://github.com/YutongGGG/University-Student-Data-Dashboard/blob/main/demo.jpg" alt="demo" width="600"/>
  
